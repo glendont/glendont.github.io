@@ -2710,12 +2710,12 @@ input, select, textarea {
 	ul.pagination {
 		cursor: default;
 		list-style: none;
-		padding-left: 0;
+		padding-left: 1000;
 	}
 
 		ul.pagination li {
 			display: inline-block;
-			padding-left: 0;
+			padding-left: 1000;
 			vertical-align: middle;
 		}
 
